@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my new GitHub Page
 
-You can use the [editor on GitHub](https://github.com/EWCMF/EWCMF.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Tommy Gultiano Hansen, a computer science student at Ehvervsakedemi Zealand Næstved
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm using this page to test GitHub
+
 
 ### Markdown
 
